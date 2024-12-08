@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Kompromizzz! 👋</h1>
+<h1 align="center">Привет, я illussioon! 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kompromizzz&label=Просмотров профиля&color=blue&style=flat-square" alt="Просмотры профиля" />
 </p>
@@ -40,11 +40,3 @@
 </p>
 
 ---
-
-### 📈 Статистика GitHub
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kompromizzz&show_icons=true&theme=dark" alt="Статистика GitHub" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kompromizzz&layout=compact&theme=dark" alt="Наиболее используемые языки" />
-</p>
