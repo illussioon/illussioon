@@ -1,6 +1,5 @@
 <h1 align="center">Привет, я illussioon! 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=illussioon&label=Просмотров профиля&color=blue&style=flat-square" alt="Просмотры профиля" />
 </p>
 
 ---
