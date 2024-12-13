@@ -21,8 +21,9 @@
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
- <img src="https://img.shields.io/badge/React-18.2.0-blue?style=flat&logo=react" alt="React" />
- <img src="https://img.shields.io/badge/TypeScript-5.2.2-blue?style=flat&logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-18.2.0-blue?style=flat&logo=react" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-5.2.2-blue?style=flat&logo=typescript" alt="TypeScript">
+
 </p>
 
 ---
