@@ -3,7 +3,6 @@
 ---
 
 ### 🎓 About me
-- 💡 I am a student at **Kharkiv National University of Internal Affairs**.
 - 🌐 I specialize in **web development** and will become a professional in the creation of current and handy add-ons.
 - 📚 I am constantly learning new technologies and working on existing projects, including the creation of APIs and client interfaces.
 - 🔧 I’m passionate about productivity optimization and process automation.
