@@ -20,8 +20,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-white?style=flat&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/-white?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+
 
 </p>
 
